@@ -3,7 +3,7 @@
   "plugins": [
     {
       "id": "library",
-      "title": "Library",
+      "title": "Library1",
       "environments": [ "edit" ],
       "url": "https://main--wknd-test--gagandeepsaluja22.hlx.live/tools/sidekick/library.html",
       "includePaths": [ "**.docx**" ]
